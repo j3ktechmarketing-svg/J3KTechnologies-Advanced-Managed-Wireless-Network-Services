@@ -1,4 +1,4 @@
-# J3KTechnologies Wireless Network Management for Growing Enterprises
+# J3KTechnologies |  Wireless Network Management for Growing Enterprises
 
 With increasing demands for mobility, cloud integration, and uninterrupted connectivity, businesses require more than basic WiFi setups. They need intelligent systems that adapt, scale, and protect their network environment. J3KTechnologies specializes in delivering precisely that through Managed Wireless Network Services tailored for diverse industries and business sizes.
 
